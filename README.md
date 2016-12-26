@@ -1,10 +1,7 @@
 # match3
 Simple python implementation of the match3 game.
 Match3 has two game modes, timed and untimed.  Also gives hints.
-
-
-
-This was written in Pythonista for iOS.  
+  
 
 <b><u>Dependencies</u></b>
 <ul>
@@ -25,3 +22,5 @@ This was written in Pythonista for iOS.
       <li>sound
     </ul>
 </ul>
+<br><br><br>
+This was written in <a href="http://omz-software.com/pythonista/">Pythonista for iOS</a>.

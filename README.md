@@ -1,7 +1,7 @@
 # match3
 Simple python implementation of the match3 game.
 Match3 has two game modes, timed and untimed.  Also gives hints.
-  
+Uses touch controls of iOS for operation.  
 
 <b><u>Dependencies</u></b>
 <ul>
